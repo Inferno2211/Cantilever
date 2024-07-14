@@ -1,0 +1,6 @@
+[submodule "News app/client"]
+	path = News app/client
+	url = git@github.com:Inferno2211/News-App.git
+[submodule "E-commerce"]
+	path = E-commerce
+	url = git@github.com:Inferno2211/E-commerce.git
